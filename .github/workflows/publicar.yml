@@ -1,0 +1,38 @@
+name: Publicar no Instagram
+
+# Horários em UTC (Uiraúna = UTC-3): 6h53, 11h53, 16h53 e 17h53, com dois reforços
+# (+15 e +35 min) caso o GitHub atrase ou falhe. O que já saiu não é publicado de novo.
+on:
+  schedule:
+    - cron: "53 9,14,19,20 * * *"
+    - cron: "8 10,15,20,21 * * *"
+    - cron: "28 10,15,20,21 * * *"
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "publicar = publica o que está na hora; testar = só confere a chave"
+        default: testar
+        type: choice
+        options: [testar, publicar]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publicar-instagram
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publicar
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: "17841446253151662"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 agenda/publicar.py "${{ inputs.modo || 'publicar' }}"
