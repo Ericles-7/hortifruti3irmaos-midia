@@ -1,12 +1,12 @@
 name: Publicar no Instagram
 
-# Horários em UTC (Uiraúna = UTC-3): 6h53, 11h53, 16h53 e 17h53, com dois reforços
+# Horários em UTC (Uiraúna = UTC-3): 6h53, 8h53 e 10h53, com dois reforços
 # (+15 e +35 min) caso o GitHub atrase ou falhe. O que já saiu não é publicado de novo.
 on:
   schedule:
-    - cron: "53 9,14,19,20 * * *"
-    - cron: "8 10,15,20,21 * * *"
-    - cron: "28 10,15,20,21 * * *"
+    - cron: "53 9,11,13 * * *"
+    - cron: "8 10,12,14 * * *"
+    - cron: "28 10,12,14 * * *"
   workflow_dispatch:
     inputs:
       modo:
