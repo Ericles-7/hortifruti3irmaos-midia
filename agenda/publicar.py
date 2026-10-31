@@ -24,7 +24,7 @@ from zoneinfo import ZoneInfo
 
 FILA = Path(__file__).with_name("fila.json")
 ATIVO = Path(__file__).with_name("ATIVO")  # só publica com este arquivo presente (liga/desliga o robô)
-API = "https://graph.facebook.com/v21.0"
+API = "https://graph.facebook.com/v26.0"
 ATRASO_MAXIMO = timedelta(minutes=90)  # depois disso o post perde a hora (ex.: "bom dia" à noite) e não sai
 
 
