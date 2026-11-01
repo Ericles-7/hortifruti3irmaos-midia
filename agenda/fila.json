@@ -207,8 +207,7 @@
       "imagens": [
         "stories/fotos/sabado-doces.jpg"
       ],
-      "status": "erro",
-      "erro": "sessão reiniciou, passou do horário"
+      "status": "erro"
     },
     {
       "id": "2026-10-31-10:53-story-zap-2",
@@ -218,8 +217,7 @@
       "imagens": [
         "stories/fotos/zap-2.jpg"
       ],
-      "status": "erro",
-      "erro": "publicação recusada pelo dono na aprovação"
+      "status": "erro"
     },
     {
       "id": "2026-10-31-05:57-carrossel-v01-qualidade",
@@ -242,17 +240,17 @@
       "imagens": [
         "stories/fotos/bom-dia-previsao.jpg"
       ],
-      "status": "pendente"
+      "status": "erro"
     },
     {
-      "id": "2026-11-01-08:53-story-dica-rapadura",
+      "id": "2026-11-01-08:53-story-novembro",
       "data": "2026-11-01",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-rapadura.jpg"
+        "stories/fotos/novembro.jpg"
       ],
-      "status": "pendente"
+      "status": "erro"
     },
     {
       "id": "2026-11-01-10:53-story-familia-1",
@@ -262,7 +260,8 @@
       "imagens": [
         "stories/fotos/familia-1.jpg"
       ],
-      "status": "pendente"
+      "status": "erro",
+      "erro": "passou do horário (aprovação não respondida)"
     },
     {
       "id": "2026-11-02-06:53-story-fruta-chegou",
