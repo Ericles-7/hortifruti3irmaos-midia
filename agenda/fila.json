@@ -260,8 +260,7 @@
       "imagens": [
         "stories/fotos/familia-1.jpg"
       ],
-      "status": "erro",
-      "erro": "passou do horário (aprovação não respondida)"
+      "status": "erro"
     },
     {
       "id": "2026-11-02-06:53-story-fruta-chegou",
@@ -550,7 +549,7 @@
       "video": "reels/como-guardar.mp4",
       "capa": "reels/como-guardar-capa.jpg",
       "commit": "5c3781d93c9853cb7c9c371a49c496c0190c3279",
-      "status": "aguardando",
+      "status": "manual",
       "legenda": "Sua fruta estraga rápido? Guarda assim que dura mais! 🍎🥬\nSalva esse vídeo 👇\n1️⃣ Repolho: inteiro e sem lavar, num saco na geladeira\n2️⃣ Maçã: na geladeira, longe das outras frutas\n3️⃣ Uva: na geladeira e sem lavar; lave só na hora de comer\n4️⃣ Mamão: fora da geladeira até amadurecer, depois na geladeira\n5️⃣ Tangerina: em lugar fresco e arejado\nE quando acabar, a gente leva mais: peça pelo Zap aqui no Hortifruti 3 Irmãos!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas você não sabia? Comenta aqui 👇\n#ComoGuardar #DicaDaFeira #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
