@@ -270,7 +270,8 @@
       "imagens": [
         "stories/fotos/fruta-chegou.jpg"
       ],
-      "status": "pendente"
+      "status": "pausado",
+      "erro": "Finados: dono pediu nenhuma postagem em 02/11"
     },
     {
       "id": "2026-11-02-08:53-story-fruta-video",
@@ -280,7 +281,8 @@
       "imagens": [
         "stories/fotos/fruta-video.jpg"
       ],
-      "status": "pendente"
+      "status": "pausado",
+      "erro": "Finados: dono pediu nenhuma postagem em 02/11"
     },
     {
       "id": "2026-11-02-10:53-story-fruta-zap",
@@ -290,7 +292,8 @@
       "imagens": [
         "stories/fotos/fruta-zap.jpg"
       ],
-      "status": "pendente"
+      "status": "pausado",
+      "erro": "Finados: dono pediu nenhuma postagem em 02/11"
     },
     {
       "id": "2026-11-02-05:57-reel-pov-segunda-fruta",
@@ -301,7 +304,8 @@
       "capa": "reels/pov-segunda-fruta-capa.jpg",
       "commit": "8b8f227edf360c6bea918493d6da923625761dd0",
       "legenda": "POV: você chegou cedo na Segunda da Fruta 🍉🥭\nToda segunda chega fruta nova aqui no Hortifruti 3 Irmãos: melancia, mamão, tangerina, uva sem semente, ameixa, kiwi e manga coité fresquinhos.\nFruta que chegou hoje é fruta que acaba hoje! Passe aqui ou peça pelo Zap que a gente separa as mais bonitas.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas vai pra sua casa hoje? Comenta aqui 👇\n#SegundaDaFruta #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
-      "status": "pendente"
+      "status": "pausado",
+      "erro": "Finados: dono pediu nenhuma postagem em 02/11"
     },
     {
       "id": "2026-11-03-06:53-story-bom-dia-polaroid",
