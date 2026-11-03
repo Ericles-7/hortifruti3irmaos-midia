@@ -342,7 +342,8 @@
       "imagens": [
         "stories/fotos/fruta-zap.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17928189534430171"
     },
     {
       "id": "2026-11-04-06:53-story-bom-dia-nota",
