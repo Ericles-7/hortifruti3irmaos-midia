@@ -353,7 +353,8 @@
       "imagens": [
         "stories/fotos/bom-dia-nota.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18117108374039347"
     },
     {
       "id": "2026-11-04-08:53-story-dica-manga",
