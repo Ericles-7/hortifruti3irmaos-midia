@@ -364,7 +364,8 @@
       "imagens": [
         "stories/fotos/dica-manga.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17925388539217781"
     },
     {
       "id": "2026-11-04-10:53-story-zap-4",
