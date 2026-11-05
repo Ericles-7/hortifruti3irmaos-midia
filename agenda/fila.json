@@ -379,22 +379,22 @@
       "media_id": "18161244187550903"
     },
     {
-      "id": "2026-11-05-06:53-story-bom-dia-gigante",
+      "id": "2026-11-05-06:53-story-quinta-chegou",
       "data": "2026-11-05",
       "hora": "06:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/bom-dia-gigante.jpg"
+        "stories/fotos/quinta-chegou.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-05-08:53-story-dica-rapadura",
+      "id": "2026-11-05-08:53-story-verdura-destaque",
       "data": "2026-11-05",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-rapadura.jpg"
+        "stories/fotos/verdura-destaque.jpg"
       ],
       "status": "pendente"
     },
