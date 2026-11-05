@@ -86,7 +86,14 @@ def publicar(ig, p, fila):
     else:
         raise ErroApi(f"tipo desconhecido: {p['tipo']}")
     esperar_pronto(container)
-    return chamar("POST", f"{ig}/media_publish", creation_id=container)["id"]
+    # logo após ficar pronto, o Instagram às vezes ainda responde "Media ID is not available": espera e tenta de novo
+    for tentativa in range(5):
+        try:
+            return chamar("POST", f"{ig}/media_publish", creation_id=container)["id"]
+        except ErroApi as e:
+            if "not available" not in str(e) or tentativa == 4:
+                raise
+            time.sleep(15 * (tentativa + 1))
 
 
 def vencidos(fila, agora):
