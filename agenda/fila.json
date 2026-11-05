@@ -397,7 +397,8 @@
       "imagens": [
         "stories/fotos/verdura-destaque.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17993433842862008"
     },
     {
       "id": "2026-11-05-10:53-story-zap-1",
