@@ -386,7 +386,8 @@
       "imagens": [
         "stories/fotos/quinta-chegou.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18098790314449474"
     },
     {
       "id": "2026-11-05-08:53-story-verdura-destaque",
