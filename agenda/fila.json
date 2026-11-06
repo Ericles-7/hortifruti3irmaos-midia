@@ -468,7 +468,8 @@
       "capa": "reels/lista-fim-de-semana-capa.jpg",
       "commit": "8b8f227edf360c6bea918493d6da923625761dd0",
       "legenda": "Sextou! Já fez a lista do fim de semana? 📝✅\nMamão pro café, uva pra sobremesa, alface e cheiro-verde, pimenta-de-cheiro, pimentão pro vinagrete, melancia pra gelar e doce caseiro: tem tudo aqui no Hortifruti 3 Irmãos.\nSepara pelo Zap hoje e passa pra pegar! Sábado estamos abertos das 4h às 15h.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que não pode faltar na sua lista? Comenta aqui 👇\n#Sextou #FimDeSemana #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
-      "status": "pendente"
+      "status": "erro",
+      "erro": "processamento falhou (ERROR)"
     },
     {
       "id": "2026-11-07-06:53-story-sabado-feira",
