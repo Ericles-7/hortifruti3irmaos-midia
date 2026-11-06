@@ -55,11 +55,12 @@ def esperar_pronto(container, limite=600):
     """O Instagram processa a mídia antes de publicar (vídeo pode levar minutos)."""
     fim = time.time() + limite
     while True:
-        status = chamar("GET", container, fields="status_code,status").get("status_code")
+        info = chamar("GET", container, fields="status_code,status")
+        status = info.get("status_code")
         if status == "FINISHED":
             return
         if status in ("ERROR", "EXPIRED"):
-            raise ErroApi(f"processamento falhou ({status})")
+            raise ErroApi(f"processamento falhou ({status}: {info.get('status', '')})")
         if time.time() > fim:
             raise ErroApi("processamento demorou demais")
         time.sleep(5)
