@@ -556,12 +556,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-09-08:53-story-dica-rapadura",
+      "id": "2026-11-09-08:53-story-dica-batata",
       "data": "2026-11-09",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-rapadura.jpg"
+        "stories/fotos/dica-batata.jpg"
       ],
       "status": "pendente"
     },
@@ -583,7 +583,7 @@
       "video": "reels/como-escolher-2.mp4",
       "capa": "reels/como-escolher-2-capa.jpg",
       "commit": "100c963438e180097c5e6c729b4ff615a43ac1ac",
-      "status": "aguardando",
+      "status": "pendente",
       "legenda": "Como escolher na feira, parte 2! 🎃🥔 Salva esse vídeo 👇\n1️⃣ Jerimum: casca firme, sem partes moles; cortado, polpa laranja forte\n2️⃣ Batata: firme, sem brotos e sem partes moles\n3️⃣ Feijão: grãos inteiros, sem furinhos e sem pó no pacote\n4️⃣ Farinha: soltinha e sequinha, sem cheiro de mofo\n5️⃣ Mel: cristalizou? É normal, banho-maria e ele volta ao ponto\nOu deixa que a gente escolhe pra você aqui no Hortifruti 3 Irmãos: manda sua lista no Zap!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas dicas você não sabia? Comenta aqui 👇\n#ComoEscolher #DicaDaFeira #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
@@ -597,12 +597,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-10-08:53-story-dica-melancia",
+      "id": "2026-11-10-08:53-story-dica-feijao",
       "data": "2026-11-10",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-melancia.jpg"
+        "stories/fotos/dica-feijao.jpg"
       ],
       "status": "pendente"
     },
@@ -627,12 +627,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-11-08:53-story-zap-3",
+      "id": "2026-11-11-08:53-story-dica-mel",
       "data": "2026-11-11",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/zap-3.jpg"
+        "stories/fotos/dica-mel.jpg"
       ],
       "status": "pendente"
     },
@@ -691,7 +691,7 @@
         "q04-quinta-chegou-7.jpg"
       ],
       "legenda": "QUINTOU! 🎃🧀 Chegou mercadoria nova no Hortifruti 3 Irmãos!\nJerimum, batata branca e roxa, feijão, farinha, queijo coalho e mel de abelha italiana pra sua semana. Arrasta pro lado 👉\nPasse aqui ou peça pelo Zap que a gente separa tudo pra você.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que vai pra sua mesa essa semana? Comenta aqui 👇\n#QuintaDaVerdura #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
-      "status": "aguardando"
+      "status": "pendente"
     },
     {
       "id": "2026-11-13-06:53-story-sextou-2",
@@ -731,7 +731,7 @@
       "video": "reels/almoco-de-sabado.mp4",
       "capa": "reels/almoco-de-sabado-capa.jpg",
       "commit": "100c963438e180097c5e6c729b4ff615a43ac1ac",
-      "status": "aguardando",
+      "status": "pendente",
       "legenda": "Sextou! O almoço de sábado tá garantido? 📝✅\nFeijão, farinha de mandioca, jerimum pro cozido, batata branca e roxa, queijo coalho, mel de abelha e mamão pra sobremesa: tem tudo aqui no Hortifruti 3 Irmãos.\nSepara pelo Zap hoje e passa pra pegar! Sábado estamos abertos das 4h às 15h.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que não pode faltar no almoço de sábado aí? Comenta aqui 👇\n#Sextou #AlmoçoDeSábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
@@ -745,12 +745,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-14-08:53-story-sabado-doces",
+      "id": "2026-11-14-08:53-story-sabado-almoco",
       "data": "2026-11-14",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sabado-doces.jpg"
+        "stories/fotos/sabado-almoco.jpg"
       ],
       "status": "pendente"
     },
@@ -775,12 +775,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-15-08:53-story-zap-3",
+      "id": "2026-11-15-08:53-story-dica-mel",
       "data": "2026-11-15",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/zap-3.jpg"
+        "stories/fotos/dica-mel.jpg"
       ],
       "status": "pendente"
     },
@@ -835,12 +835,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-17-08:53-story-dica-rapadura",
+      "id": "2026-11-17-08:53-story-dica-batata",
       "data": "2026-11-17",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-rapadura.jpg"
+        "stories/fotos/dica-batata.jpg"
       ],
       "status": "pendente"
     },
@@ -865,12 +865,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-18-08:53-story-dica-melancia",
+      "id": "2026-11-18-08:53-story-dica-feijao",
       "data": "2026-11-18",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-melancia.jpg"
+        "stories/fotos/dica-feijao.jpg"
       ],
       "status": "pendente"
     },
@@ -895,12 +895,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-19-08:53-story-zap-3",
+      "id": "2026-11-19-08:53-story-dica-mel",
       "data": "2026-11-19",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/zap-3.jpg"
+        "stories/fotos/dica-mel.jpg"
       ],
       "status": "pendente"
     },
@@ -955,12 +955,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-21-08:53-story-sabado-doces",
+      "id": "2026-11-21-08:53-story-sabado-almoco",
       "data": "2026-11-21",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sabado-doces.jpg"
+        "stories/fotos/sabado-almoco.jpg"
       ],
       "status": "pendente"
     },
@@ -985,12 +985,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-22-08:53-story-dica-melancia",
+      "id": "2026-11-22-08:53-story-dica-feijao",
       "data": "2026-11-22",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-melancia.jpg"
+        "stories/fotos/dica-feijao.jpg"
       ],
       "status": "pendente"
     },
@@ -1015,12 +1015,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-23-08:53-story-zap-3",
+      "id": "2026-11-23-08:53-story-dica-mel",
       "data": "2026-11-23",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/zap-3.jpg"
+        "stories/fotos/dica-mel.jpg"
       ],
       "status": "pendente"
     },
@@ -1045,12 +1045,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-24-08:53-story-dica-manga",
+      "id": "2026-11-24-08:53-story-dica-jerimum",
       "data": "2026-11-24",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-manga.jpg"
+        "stories/fotos/dica-jerimum.jpg"
       ],
       "status": "pendente"
     },
@@ -1075,12 +1075,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-25-08:53-story-dica-rapadura",
+      "id": "2026-11-25-08:53-story-dica-batata",
       "data": "2026-11-25",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-rapadura.jpg"
+        "stories/fotos/dica-batata.jpg"
       ],
       "status": "pendente"
     },
