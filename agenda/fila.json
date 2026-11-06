@@ -448,7 +448,8 @@
       "imagens": [
         "stories/fotos/sexta-produto.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17876557158649978"
     },
     {
       "id": "2026-11-06-10:53-story-sexta-zap",
