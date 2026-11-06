@@ -576,26 +576,15 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-09-05:57-reel-como-guardar",
+      "id": "2026-11-09-05:57-reel-como-escolher-2",
       "data": "2026-11-09",
       "tipo": "reel",
       "hora": "05:57",
-      "video": "reels/como-guardar.mp4",
-      "capa": "reels/como-guardar-capa.jpg",
-      "commit": "5c3781d93c9853cb7c9c371a49c496c0190c3279",
-      "status": "manual",
-      "legenda": "Sua fruta estraga rápido? Guarda assim que dura mais! 🍎🥬\nSalva esse vídeo 👇\n1️⃣ Repolho: inteiro e sem lavar, num saco na geladeira\n2️⃣ Maçã: na geladeira, longe das outras frutas\n3️⃣ Uva: na geladeira e sem lavar; lave só na hora de comer\n4️⃣ Mamão: fora da geladeira até amadurecer, depois na geladeira\n5️⃣ Tangerina: em lugar fresco e arejado\nE quando acabar, a gente leva mais: peça pelo Zap aqui no Hortifruti 3 Irmãos!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas você não sabia? Comenta aqui 👇\n#ComoGuardar #DicaDaFeira #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
-    },
-    {
-      "id": "2026-11-09-05:57-reel-pov-segunda-fruta",
-      "data": "2026-11-09",
-      "tipo": "reel",
-      "hora": "05:57",
-      "video": "reels/pov-segunda-fruta.mp4",
-      "capa": "reels/pov-segunda-fruta-capa.jpg",
-      "commit": "8b8f227edf360c6bea918493d6da923625761dd0",
-      "legenda": "POV: você chegou cedo na Segunda da Fruta 🍉🥭\nToda segunda chega fruta nova aqui no Hortifruti 3 Irmãos: melancia, mamão, tangerina, uva sem semente, ameixa, kiwi e manga coité fresquinhos.\nFruta que chegou hoje é fruta que acaba hoje! Passe aqui ou peça pelo Zap que a gente separa as mais bonitas.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas vai pra sua casa hoje? Comenta aqui 👇\n#SegundaDaFruta #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
-      "status": "pendente"
+      "video": "reels/como-escolher-2.mp4",
+      "capa": "reels/como-escolher-2-capa.jpg",
+      "commit": "100c963438e180097c5e6c729b4ff615a43ac1ac",
+      "status": "aguardando",
+      "legenda": "Como escolher na feira, parte 2! 🎃🥔 Salva esse vídeo 👇\n1️⃣ Jerimum: casca firme, sem partes moles; cortado, polpa laranja forte\n2️⃣ Batata: firme, sem brotos e sem partes moles\n3️⃣ Feijão: grãos inteiros, sem furinhos e sem pó no pacote\n4️⃣ Farinha: soltinha e sequinha, sem cheiro de mofo\n5️⃣ Mel: cristalizou? É normal, banho-maria e ele volta ao ponto\nOu deixa que a gente escolhe pra você aqui no Hortifruti 3 Irmãos: manda sua lista no Zap!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas dicas você não sabia? Comenta aqui 👇\n#ComoEscolher #DicaDaFeira #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
       "id": "2026-11-10-06:53-story-bom-dia-gigante",
@@ -658,22 +647,22 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-12-06:53-story-quinta-chegou",
+      "id": "2026-11-12-06:53-story-quinta-chegou-2",
       "data": "2026-11-12",
       "hora": "06:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/quinta-chegou.jpg"
+        "stories/fotos/quinta-chegou-2.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-12-08:53-story-verdura-destaque",
+      "id": "2026-11-12-08:53-story-verdura-destaque-2",
       "data": "2026-11-12",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/verdura-destaque.jpg"
+        "stories/fotos/verdura-destaque-2.jpg"
       ],
       "status": "pendente"
     },
@@ -688,40 +677,39 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-12-05:57-carrossel-q03-quinta-chegou",
+      "id": "2026-11-12-05:57-carrossel-q04-quinta-chegou",
       "data": "2026-11-12",
       "hora": "05:57",
       "tipo": "carrossel",
       "imagens": [
-        "q03-quinta-chegou-1.jpg",
-        "q03-quinta-chegou-2.jpg",
-        "q03-quinta-chegou-3.jpg",
-        "q03-quinta-chegou-4.jpg",
-        "q03-quinta-chegou-5.jpg",
-        "q03-quinta-chegou-6.jpg",
-        "q03-quinta-chegou-7.jpg",
-        "q03-quinta-chegou-8.jpg"
+        "q04-quinta-chegou-1.jpg",
+        "q04-quinta-chegou-2.jpg",
+        "q04-quinta-chegou-3.jpg",
+        "q04-quinta-chegou-4.jpg",
+        "q04-quinta-chegou-5.jpg",
+        "q04-quinta-chegou-6.jpg",
+        "q04-quinta-chegou-7.jpg"
       ],
-      "legenda": "QUINTOU! 🥬🍇 Chegou mercadoria nova no Hortifruti 3 Irmãos!\nRepolho verde e roxo, pimentão, uva roxa, uva verde, maçã e melão fresquinhos pra sua semana. Arrasta pro lado 👉\nPasse aqui ou peça pelo Zap que a gente separa as mais bonitas.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que não pode faltar na sua feira? Comenta aqui 👇\n#QuintaDaVerdura #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
+      "legenda": "QUINTOU! 🎃🧀 Chegou mercadoria nova no Hortifruti 3 Irmãos!\nJerimum, batata branca e roxa, feijão, farinha, queijo coalho e mel de abelha italiana pra sua semana. Arrasta pro lado 👉\nPasse aqui ou peça pelo Zap que a gente separa tudo pra você.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que vai pra sua mesa essa semana? Comenta aqui 👇\n#QuintaDaVerdura #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
       "status": "aguardando"
     },
     {
-      "id": "2026-11-13-06:53-story-sextou",
+      "id": "2026-11-13-06:53-story-sextou-2",
       "data": "2026-11-13",
       "hora": "06:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sextou.jpg"
+        "stories/fotos/sextou-2.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-13-08:53-story-sexta-produto",
+      "id": "2026-11-13-08:53-story-sexta-produto-2",
       "data": "2026-11-13",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sexta-produto.jpg"
+        "stories/fotos/sexta-produto-2.jpg"
       ],
       "status": "pendente"
     },
@@ -736,21 +724,15 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-13-05:57-carrossel-r5-sobremesa",
+      "id": "2026-11-13-05:57-reel-almoco-de-sabado",
       "data": "2026-11-13",
+      "tipo": "reel",
       "hora": "05:57",
-      "tipo": "carrossel",
-      "imagens": [
-        "r5-sobremesa-1.jpg",
-        "r5-sobremesa-2.jpg",
-        "r5-sobremesa-3.jpg",
-        "r5-sobremesa-4.jpg",
-        "r5-sobremesa-5.jpg",
-        "r5-sobremesa-6.jpg",
-        "r5-sobremesa-7.jpg"
-      ],
-      "legenda": "Sextou! Já pensou na sobremesa do fim de semana? 🍇🍉\nSalada de frutas, uva congelada, arroz doce com uva-passa, vitamina de mamão e amendoim torradinho: 5 ideias com o que tem fresquinho aqui no Hortifruti 3 Irmãos. Arrasta pro lado 👉\nSepara pelo Zap e passa pra pegar! Sábado estamos abertos das 4h às 15h.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual vai ser a sobremesa aí na sua casa? Comenta aqui 👇\n#Sextou #Sobremesa #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
-      "status": "aguardando"
+      "video": "reels/almoco-de-sabado.mp4",
+      "capa": "reels/almoco-de-sabado-capa.jpg",
+      "commit": "100c963438e180097c5e6c729b4ff615a43ac1ac",
+      "status": "aguardando",
+      "legenda": "Sextou! O almoço de sábado tá garantido? 📝✅\nFeijão, farinha de mandioca, jerimum pro cozido, batata branca e roxa, queijo coalho, mel de abelha e mamão pra sobremesa: tem tudo aqui no Hortifruti 3 Irmãos.\nSepara pelo Zap hoje e passa pra pegar! Sábado estamos abertos das 4h às 15h.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que não pode faltar no almoço de sábado aí? Comenta aqui 👇\n#Sextou #AlmoçoDeSábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
       "id": "2026-11-14-06:53-story-sabado-feira",
