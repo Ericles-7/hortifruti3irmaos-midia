@@ -541,7 +541,8 @@
       "imagens": [
         "stories/fotos/dica-manga.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17966261160227562"
     },
     {
       "id": "2026-11-08-10:53-story-familia-2",
