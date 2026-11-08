@@ -530,7 +530,8 @@
       "imagens": [
         "stories/fotos/bom-dia-polaroid.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18144525154610421"
     },
     {
       "id": "2026-11-08-08:53-story-dica-manga",
