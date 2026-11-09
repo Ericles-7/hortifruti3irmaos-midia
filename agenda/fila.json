@@ -563,7 +563,8 @@
       "imagens": [
         "stories/fotos/bom-dia-nota.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18004424847008612"
     },
     {
       "id": "2026-11-09-08:53-story-dica-batata",
