@@ -608,7 +608,8 @@
       "imagens": [
         "stories/fotos/bom-dia-gigante.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18138508679505247"
     },
     {
       "id": "2026-11-10-08:53-story-dica-feijao",
