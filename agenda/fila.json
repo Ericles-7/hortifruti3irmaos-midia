@@ -630,7 +630,8 @@
       "imagens": [
         "stories/fotos/zap-4.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17883147174630544"
     },
     {
       "id": "2026-11-11-06:53-story-bom-dia-previsao",
