@@ -619,7 +619,8 @@
       "imagens": [
         "stories/fotos/dica-feijao.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17993385095862439"
     },
     {
       "id": "2026-11-10-10:53-story-zap-4",
