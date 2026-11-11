@@ -641,7 +641,8 @@
       "imagens": [
         "stories/fotos/bom-dia-previsao.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18181609456443283"
     },
     {
       "id": "2026-11-11-08:53-story-dica-mel",
