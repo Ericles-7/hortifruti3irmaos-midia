@@ -770,7 +770,8 @@
       "imagens": [
         "stories/fotos/sabado-feira.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18024738011945150"
     },
     {
       "id": "2026-11-14-08:53-story-sabado-almoco",
