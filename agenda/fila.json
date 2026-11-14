@@ -946,34 +946,45 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-06:53-story-sextou",
+      "id": "2026-11-20-06:53-story-morango-chegou",
       "data": "2026-11-20",
       "hora": "06:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sextou.jpg"
+        "stories/fotos/morango-chegou.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-08:53-story-sexta-produto",
+      "id": "2026-11-20-08:53-story-dica-morango",
       "data": "2026-11-20",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sexta-produto.jpg"
+        "stories/fotos/dica-morango.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-10:53-story-sexta-zap",
+      "id": "2026-11-20-10:53-story-morango-zap",
       "data": "2026-11-20",
       "hora": "10:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sexta-zap.jpg"
+        "stories/fotos/morango-zap.jpg"
       ],
       "status": "pendente"
+    },
+    {
+      "id": "2026-11-20-05:57-reel-morango-na-loja",
+      "data": "2026-11-20",
+      "tipo": "reel",
+      "hora": "05:57",
+      "video": "reels/morango-na-loja.mp4",
+      "capa": "reels/morango-na-loja-capa.jpg",
+      "commit": "e29f76cfbe4c257c2154ba38ae8afcb1d519cd77",
+      "status": "pendente",
+      "legenda": "Chegou morango no Hortifruti 3 Irmãos! 🍓 Vermelhinho, docinho e em bandejas caprichadas.\nMorango é só na sexta e no sábado, então vem cedo garantir o seu, ou pede pelo Zap que a gente separa.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nMorango com leite condensado ou puro? Comenta aqui 👇\n#Morango #SextaESábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
       "id": "2026-11-21-06:53-story-sabado-feira",
@@ -986,12 +997,12 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-21-08:53-story-sabado-almoco",
+      "id": "2026-11-21-08:53-story-morango-sabado",
       "data": "2026-11-21",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/sabado-almoco.jpg"
+        "stories/fotos/morango-sabado.jpg"
       ],
       "status": "pendente"
     },
