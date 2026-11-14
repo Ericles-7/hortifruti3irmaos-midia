@@ -792,7 +792,8 @@
       "imagens": [
         "stories/fotos/zap-1.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18120963695286248"
     },
     {
       "id": "2026-11-15-06:53-story-bom-dia-gigante",
