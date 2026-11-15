@@ -814,7 +814,8 @@
       "imagens": [
         "stories/fotos/dica-mel.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17965016235231054"
     },
     {
       "id": "2026-11-15-10:53-story-familia-1",
