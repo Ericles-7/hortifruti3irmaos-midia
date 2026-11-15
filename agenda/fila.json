@@ -803,7 +803,8 @@
       "imagens": [
         "stories/fotos/bom-dia-gigante.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17961477645271268"
     },
     {
       "id": "2026-11-15-08:53-story-dica-mel",
