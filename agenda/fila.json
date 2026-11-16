@@ -858,7 +858,8 @@
       "imagens": [
         "stories/fotos/fruta-video.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18500021935109954"
     },
     {
       "id": "2026-11-16-10:53-story-fruta-zap",
