@@ -847,7 +847,8 @@
       "imagens": [
         "stories/fotos/fruta-chegou.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18118048043046632"
     },
     {
       "id": "2026-11-16-08:53-story-fruta-video",
