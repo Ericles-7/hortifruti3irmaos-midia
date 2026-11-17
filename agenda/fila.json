@@ -880,7 +880,8 @@
       "imagens": [
         "stories/fotos/bom-dia-jornal.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17995611495119130"
     },
     {
       "id": "2026-11-17-08:53-story-dica-batata",
