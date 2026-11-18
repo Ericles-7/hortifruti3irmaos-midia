@@ -935,7 +935,8 @@
       "imagens": [
         "stories/fotos/zap-2.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18109824776201276"
     },
     {
       "id": "2026-11-19-06:53-story-bom-dia-nota",
