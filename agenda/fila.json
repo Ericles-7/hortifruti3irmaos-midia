@@ -946,7 +946,8 @@
       "imagens": [
         "stories/fotos/bom-dia-nota.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18096420971179907"
     },
     {
       "id": "2026-11-19-08:53-story-dica-mel",
