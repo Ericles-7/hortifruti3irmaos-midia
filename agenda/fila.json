@@ -834,7 +834,7 @@
       "hora": "11:05",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/republica-15nov.jpg"
+        "stories/fotos/republica.jpg"
       ],
       "status": "publicado",
       "media_id": "17999038920112174"
@@ -971,6 +971,17 @@
       "status": "pendente"
     },
     {
+      "id": "2026-11-19-09:45-reel-chegou-19-11",
+      "data": "2026-11-19",
+      "tipo": "reel",
+      "hora": "09:45",
+      "video": "reels/chegou-19-11.mp4",
+      "capa": "reels/chegou-19-11-capa.jpg",
+      "commit": "8c2feef170e76e6d00a7757db381a29509ed7b1b",
+      "status": "pendente",
+      "legenda": "Chegou mercadoria nova no Hortifruti 3 Irmãos! 🍈🥬 Melão amarelo, cantaloupe e pele de sapo, kiwi, alface, brócolis e couve-flor fresquinhos.\nPassa aqui hoje ou pede pelo Zap que a gente separa. E sábado tem feira das 4h às 15h!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\n#ChegouMercadoria #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
+    },
+    {
       "id": "2026-11-20-06:53-story-morango-chegou",
       "data": "2026-11-20",
       "hora": "06:53",
@@ -981,35 +992,35 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-08:53-story-dica-morango",
+      "id": "2026-11-20-08:53-story-melao-sabado",
       "data": "2026-11-20",
       "hora": "08:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/dica-morango.jpg"
+        "stories/fotos/melao-sabado.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-10:53-story-morango-zap",
+      "id": "2026-11-20-10:53-story-sabado-aviso",
       "data": "2026-11-20",
       "hora": "10:53",
       "tipo": "story",
       "imagens": [
-        "stories/fotos/morango-zap.jpg"
+        "stories/fotos/sabado-aviso.jpg"
       ],
       "status": "pendente"
     },
     {
-      "id": "2026-11-20-05:57-reel-morango-na-loja",
+      "id": "2026-11-20-05:57-reel-sabado-novidades",
       "data": "2026-11-20",
       "tipo": "reel",
       "hora": "05:57",
-      "video": "reels/morango-na-loja.mp4",
-      "capa": "reels/morango-na-loja-capa.jpg",
-      "commit": "e29f76cfbe4c257c2154ba38ae8afcb1d519cd77",
+      "video": "reels/sabado-novidades.mp4",
+      "capa": "reels/sabado-novidades-capa.jpg",
+      "commit": "8c2feef170e76e6d00a7757db381a29509ed7b1b",
       "status": "pendente",
-      "legenda": "Chegou morango no Hortifruti 3 Irmãos! 🍓 Vermelhinho, docinho e em bandejas caprichadas.\nMorango é só na sexta e no sábado, então vem cedo garantir o seu, ou pede pelo Zap que a gente separa.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nMorango com leite condensado ou puro? Comenta aqui 👇\n#Morango #SextaESábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
+      "legenda": "Bora pra feira de sábado no Hortifruti 3 Irmãos? 🍓🧀\nMorango, queijo coalho, mel de abelha, jerimum pro cozido, batata roxa, uva-passa e amendoim, além das frutas e verduras fresquinhas.\nSábado aberto das 4h às 15h: vem cedo escolher ou separa sua feira pelo Zap!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nO que não pode faltar na sua feira? Comenta aqui 👇\n#SábadoDeFeira #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
       "id": "2026-11-21-06:53-story-sabado-feira",
@@ -1022,9 +1033,19 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-21-08:53-story-morango-sabado",
+      "id": "2026-11-21-08:53-story-verdura-sabado",
       "data": "2026-11-21",
       "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/verdura-sabado.jpg"
+      ],
+      "status": "pendente"
+    },
+    {
+      "id": "2026-11-21-10:53-story-morango-sabado",
+      "data": "2026-11-21",
+      "hora": "10:53",
       "tipo": "story",
       "imagens": [
         "stories/fotos/morango-sabado.jpg"
@@ -1032,14 +1053,15 @@
       "status": "pendente"
     },
     {
-      "id": "2026-11-21-10:53-story-zap-2",
+      "id": "2026-11-21-05:57-reel-morango-na-loja",
       "data": "2026-11-21",
-      "hora": "10:53",
-      "tipo": "story",
-      "imagens": [
-        "stories/fotos/zap-2.jpg"
-      ],
-      "status": "pendente"
+      "tipo": "reel",
+      "hora": "05:57",
+      "video": "reels/morango-na-loja.mp4",
+      "capa": "reels/morango-na-loja-capa.jpg",
+      "commit": "e29f76cfbe4c257c2154ba38ae8afcb1d519cd77",
+      "status": "pendente",
+      "legenda": "Chegou morango no Hortifruti 3 Irmãos! 🍓 Vermelhinho, docinho e em bandejas caprichadas.\nMorango é só na sexta e no sábado, então vem cedo garantir o seu, ou pede pelo Zap que a gente separa.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nMorango com leite condensado ou puro? Comenta aqui 👇\n#Morango #SextaESábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
     },
     {
       "id": "2026-11-22-06:53-story-bom-dia-jornal",
