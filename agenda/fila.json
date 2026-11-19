@@ -957,7 +957,8 @@
       "imagens": [
         "stories/fotos/dica-mel.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18021112475967500"
     },
     {
       "id": "2026-11-19-10:53-story-zap-4",
