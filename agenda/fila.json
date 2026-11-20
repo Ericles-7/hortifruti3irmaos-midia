@@ -1002,7 +1002,8 @@
       "imagens": [
         "stories/fotos/melao-sabado.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18031404986700139"
     },
     {
       "id": "2026-11-20-10:53-story-sabado-aviso",
