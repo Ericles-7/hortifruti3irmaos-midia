@@ -1047,7 +1047,8 @@
       "imagens": [
         "stories/fotos/verdura-sabado.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17948829189362197"
     },
     {
       "id": "2026-11-21-10:53-story-morango-sabado",
