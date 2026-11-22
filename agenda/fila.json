@@ -1081,7 +1081,8 @@
       "imagens": [
         "stories/fotos/bom-dia-jornal.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17945577003098047"
     },
     {
       "id": "2026-11-22-08:53-story-dica-feijao",
