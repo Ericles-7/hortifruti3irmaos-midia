@@ -1092,7 +1092,8 @@
       "imagens": [
         "stories/fotos/dica-feijao.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17926476351219871"
     },
     {
       "id": "2026-11-22-10:53-story-familia-2",
