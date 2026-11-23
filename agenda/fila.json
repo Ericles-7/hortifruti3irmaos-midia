@@ -1114,7 +1114,8 @@
       "imagens": [
         "stories/fotos/bom-dia-polaroid.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18111931715209541"
     },
     {
       "id": "2026-11-23-08:53-story-dica-mel",
