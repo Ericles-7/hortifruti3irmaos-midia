@@ -1158,7 +1158,8 @@
       "imagens": [
         "stories/fotos/dica-jerimum.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17920586232262208"
     },
     {
       "id": "2026-11-24-10:53-story-zap-2",
