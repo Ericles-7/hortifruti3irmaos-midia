@@ -1147,7 +1147,8 @@
       "imagens": [
         "stories/fotos/bom-dia-nota.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18127195132928487"
     },
     {
       "id": "2026-11-24-08:53-story-dica-jerimum",
