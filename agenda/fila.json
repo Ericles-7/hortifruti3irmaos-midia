@@ -1202,7 +1202,8 @@
       "imagens": [
         "stories/fotos/zap-4.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18139654393638325"
     }
   ]
 }
