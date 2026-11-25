@@ -1204,6 +1204,260 @@
       ],
       "status": "publicado",
       "media_id": "18139654393638325"
+    },
+    {
+      "id": "2026-11-26-06:53-story-quinta-raio-x",
+      "data": "2026-11-26",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/quinta-raio-x.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-26-08:53-story-lupa-tangerina",
+      "data": "2026-11-26",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-tangerina.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-26-10:53-story-zap-conversa",
+      "data": "2026-11-26",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/zap-conversa.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-26-05:57-carrossel-q05-raio-x",
+      "data": "2026-11-26",
+      "hora": "05:57",
+      "tipo": "carrossel",
+      "imagens": [
+        "q05-raio-x-1.jpg",
+        "q05-raio-x-2.jpg",
+        "q05-raio-x-3.jpg",
+        "q05-raio-x-4.jpg",
+        "q05-raio-x-5.jpg",
+        "q05-raio-x-6.jpg",
+        "q05-raio-x-7.jpg"
+      ],
+      "legenda": "QUINTOU! 🍇🍊 Chegou mercadoria nova no Hortifruti 3 Irmãos, e hoje a gente mostra de pertinho.\nRaio-X da fruta: uva roxa, tangerina, maçã, uva verde e melão, cada uma escolhida a dedo antes de ir pra banca. Arrasta pro lado 👉\nPasse aqui ou peça pelo Zap que a gente separa as mais bonitas pra você.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual dessas vai pra sua mesa essa semana? Comenta aqui 👇\n#QuintaDaVerdura #RaioXDaFruta #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-27-06:53-story-sextou-lista",
+      "data": "2026-11-27",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/sextou-lista.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-27-08:53-story-lupa-morango",
+      "data": "2026-11-27",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-morango.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-27-10:53-story-lupa-uva",
+      "data": "2026-11-27",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-uva.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-27-05:57-reel-raio-x-sexta",
+      "data": "2026-11-27",
+      "tipo": "reel",
+      "hora": "05:57",
+      "video": "reels/raio-x-sexta.mp4",
+      "capa": "reels/raio-x-sexta-capa.jpg",
+      "commit": "fddd67c71806f4cfeabd441ad120b05d8b50f80f",
+      "status": "aguardando",
+      "legenda": "Raio-X da fruta do fim de semana 🔍🍓 Aqui no Hortifruti 3 Irmãos só vai pra banca o que passa nesse teste.\nMorango (só sexta e sábado!), uva roxa, tangerina, maçã, uva verde e melão: tudo de pertinho, do jeitinho que tá na loja.\nSábado aberto das 4h às 15h. Vem cedo escolher ou separa sua feira pelo Zap!\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual passou no seu raio-x? Comenta aqui 👇\n#RaioXDaFruta #SextaESábado #Uiraúna #Hortifruti3Irmãos #FeiraFresca"
+    },
+    {
+      "id": "2026-11-28-06:53-story-sabado-placa",
+      "data": "2026-11-28",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/sabado-placa.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-28-08:53-story-lupa-maca",
+      "data": "2026-11-28",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-maca.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-28-10:53-story-zap-conversa",
+      "data": "2026-11-28",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/zap-conversa.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-29-06:53-story-bom-dia-letras",
+      "data": "2026-11-29",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/bom-dia-letras.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-29-08:53-story-lupa-uva",
+      "data": "2026-11-29",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-uva.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-29-10:53-story-bom-dia-cupom",
+      "data": "2026-11-29",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/bom-dia-cupom.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-30-06:53-story-bom-dia-filme",
+      "data": "2026-11-30",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/bom-dia-filme.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-30-08:53-story-lupa-maca",
+      "data": "2026-11-30",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-maca.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-30-10:53-story-zap-conversa",
+      "data": "2026-11-30",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/zap-conversa.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-11-30-05:57-carrossel-s03-revista",
+      "data": "2026-11-30",
+      "hora": "05:57",
+      "tipo": "carrossel",
+      "imagens": [
+        "s03-revista-1.jpg",
+        "s03-revista-2.jpg",
+        "s03-revista-3.jpg",
+        "s03-revista-4.jpg",
+        "s03-revista-5.jpg",
+        "s03-revista-6.jpg"
+      ],
+      "legenda": "Saiu a nova edição da Revista 3 Irmãos! 📰🍇 Edição da fruta, segunda 30 de novembro.\nUva, tangerina, maçã e melão: quem chegou hoje e como a gente escolhe cada uma. Folheia pro lado 👉\nFruta que chegou hoje é fruta que acaba hoje: passe aqui ou peça pelo Zap que a gente separa.\n📲 (83) 99937-8165 · 📍 Rua Francisco Euclides Fernandes, 1200 — Uiraúna\nQual fruta merece a capa da próxima edição? Comenta aqui 👇\n#SegundaDaFruta #Uiraúna #Hortifruti3Irmãos #FeiraFresca",
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-01-06:53-story-dezembro",
+      "data": "2026-12-01",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/dezembro.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-01-08:53-story-lupa-tangerina",
+      "data": "2026-12-01",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-tangerina.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-01-10:53-story-zap-conversa",
+      "data": "2026-12-01",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/zap-conversa.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-02-06:53-story-uirauna-73",
+      "data": "2026-12-02",
+      "hora": "06:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/uirauna-73.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-02-08:53-story-lupa-uva",
+      "data": "2026-12-02",
+      "hora": "08:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/lupa-uva.jpg"
+      ],
+      "status": "aguardando"
+    },
+    {
+      "id": "2026-12-02-10:53-story-zap-conversa",
+      "data": "2026-12-02",
+      "hora": "10:53",
+      "tipo": "story",
+      "imagens": [
+        "stories/fotos/zap-conversa.jpg"
+      ],
+      "status": "aguardando"
     }
   ]
 }
