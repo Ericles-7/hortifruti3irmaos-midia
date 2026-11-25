@@ -1191,7 +1191,8 @@
       "imagens": [
         "stories/fotos/dica-batata.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18121823582597293"
     },
     {
       "id": "2026-11-25-10:53-story-zap-4",
