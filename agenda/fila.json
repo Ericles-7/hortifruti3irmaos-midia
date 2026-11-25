@@ -1180,7 +1180,8 @@
       "imagens": [
         "stories/fotos/bom-dia-gigante.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18061359836574477"
     },
     {
       "id": "2026-11-25-08:53-story-dica-batata",
