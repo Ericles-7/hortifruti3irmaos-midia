@@ -1213,7 +1213,8 @@
       "imagens": [
         "stories/fotos/quinta-raio-x.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18093673514700828"
     },
     {
       "id": "2026-11-26-08:53-story-lupa-tangerina",
