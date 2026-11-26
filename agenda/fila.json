@@ -1235,7 +1235,8 @@
       "imagens": [
         "stories/fotos/etiqueta-tangerina.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17964509940247532"
     },
     {
       "id": "2026-11-26-05:57-carrossel-q05-raio-x",
