@@ -1275,7 +1275,8 @@
       "imagens": [
         "stories/fotos/lupa-morango.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "18117471851185697"
     },
     {
       "id": "2026-11-27-10:53-story-lupa-uva",
