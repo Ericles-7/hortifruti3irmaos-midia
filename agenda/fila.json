@@ -1331,7 +1331,8 @@
       "imagens": [
         "stories/fotos/mosaico.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17978891271176962"
     },
     {
       "id": "2026-11-29-06:53-story-bom-dia-letras",
