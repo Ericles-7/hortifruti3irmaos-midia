@@ -1320,7 +1320,8 @@
       "imagens": [
         "stories/fotos/lupa-maca.jpg"
       ],
-      "status": "pendente"
+      "status": "publicado",
+      "media_id": "17981259693148315"
     },
     {
       "id": "2026-11-28-10:53-story-mosaico",
